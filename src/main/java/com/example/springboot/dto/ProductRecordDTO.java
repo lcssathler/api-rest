@@ -1,6 +1,5 @@
 package com.example.springboot.dto;
 
-import com.example.springboot.model.ProductModel;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;
 
